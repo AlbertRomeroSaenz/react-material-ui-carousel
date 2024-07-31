@@ -10,8 +10,8 @@ Fixed a bug when swiping on the carousel.
 
 For more information on the use or operation of this package, see:
 
-https://github.com/Learus/react-material-ui-carousel
-https://www.npmjs.com/package/react-material-ui-carousel
+- https://github.com/Learus/react-material-ui-carousel
+- https://www.npmjs.com/package/react-material-ui-carousel
 
 ## Installation
 
