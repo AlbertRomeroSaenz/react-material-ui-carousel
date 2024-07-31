@@ -3,8 +3,8 @@
 ## Description
 
 Fork of the project
-https://github.com/Learus/react-material-ui-carousel
-https://www.npmjs.com/package/react-material-ui-carousel
+- https://github.com/Learus/react-material-ui-carousel
+- https://www.npmjs.com/package/react-material-ui-carousel
 
 Fixed a bug when swiping on the carousel.
 
