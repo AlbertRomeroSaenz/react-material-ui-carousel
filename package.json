@@ -1,19 +1,21 @@
 {
-    "name": "react-material-ui-carousel",
-    "version": "3.4.2",
+    "name": "react-material-ui-carousel-with-mobil-swipe",
+    "version": "1.0.3",
     "license": "MIT",
-    "description": "A Generic, extendible Carousel UI component for React using Material UI",
-    "homepage": "https://learus.github.io/react-material-ui-carousel",
+    "description": "A Generic, extendible Carousel UI component for React using Material UI- with mobile swipe support",
+    "homepage": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Learus/react-material-ui-carousel"
+        "url": "https://github.com/AlbertRomeroSaenz/react-material-ui-carousel"
     },
     "keywords": [
         "react",
         "material",
         "material ui",
         "carousel",
-        "gallery"
+        "gallery",
+        "slider",
+        "mobile swipe"
     ],
     "main": "dist/index.js",
     "module": "dist/index.js",
@@ -49,12 +51,11 @@
         ]
     },
     "dependencies": {
-        "@emotion/react": "^11.7.1",
-        "@emotion/styled": "^11.6.0",
-        "@mui/icons-material": "^5.4.1",
-        "@mui/material": "^5.4.1",
-        "@mui/system": "^5.4.1",
-        "framer-motion": "^4.1.17"
+        "@emotion/react": "^11.4.1",
+        "@emotion/styled": "^11.3.0",
+        "@mui/icons-material": "^5.0.0",
+        "@mui/material": "^5.0.0",
+        "framer-motion": "^11.2.10"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
@@ -62,7 +63,7 @@
         "babel-preset-react": "^6.24.1",
         "babel-preset-stage-2": "^6.24.1",
         "gh-pages": "^2.2.0",
-        "react-scripts": "^4.0.3",
+        "react-scripts": "^5.0.1",
         "typescript": "^4.4.4"
     },
     "peerDependencies": {
@@ -70,7 +71,6 @@
         "@emotion/styled": "^11.3.0",
         "@mui/icons-material": "^5.0.0",
         "@mui/material": "^5.0.0",
-        "@mui/system": "^5.0.0",
         "react": "^17.0.1 || ^18.0.0",
         "react-dom": "^17.0.2 || ^18.0.0"
     }
